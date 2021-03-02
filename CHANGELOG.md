@@ -5,6 +5,8 @@
 * [ENHANCEMENT]
 * [BUGFIX]
 
+* [BUGFIX] Sanitize strings from /sys/class/power_supply
+
 ## 1.1.1 / 2021-02-12
 
 * [BUGFIX] Fix ineffassign issue #1957
